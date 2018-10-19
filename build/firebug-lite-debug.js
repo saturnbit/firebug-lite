@@ -28,7 +28,7 @@ var FBL = {};
 // ************************************************************************************************
 // Constants
 
-var productionDir = "http://getfirebug.com/releases/lite/";
+var productionDir = "http://saturnbit.github.io/firebug-lite/";
 var bookmarkletVersion = 4;
 
 // ************************************************************************************************
