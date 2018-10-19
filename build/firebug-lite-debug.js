@@ -283,7 +283,7 @@ this.Env =
         app: null
     },
 
-    skin: "xp",
+    skin: "dark",
     useLocalSkin: false,
 
     // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
